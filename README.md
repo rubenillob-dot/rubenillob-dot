@@ -61,8 +61,12 @@
 ### 📊 Estadísticas de GitHub
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=rubenillob-dot&show_icons=true&theme=dark" alt="Estadísticas de GitHub de rubenillob-dot" height="175" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=rubenillob-dot&layout=compact&theme=dark" alt="Lenguajes más usados de rubenillob-dot" height="175" />
+  <a href="https://github.com/rubenillob-dot">
+    <img src="https://github-readme-stats-fast.vercel.app/api?username=rubenillob-dot&show_icons=true&theme=dark" alt="Estadísticas de GitHub de rubenillob-dot" height="175" />
+  </a>
+  <a href="https://github.com/rubenillob-dot?tab=repositories">
+    <img src="https://github-readme-stats-fast.vercel.app/api/top-langs?username=rubenillob-dot&layout=compact&theme=dark" alt="Lenguajes más usados de rubenillob-dot" height="175" />
+  </a>
 </p>
 
 ---
